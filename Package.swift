@@ -1,4 +1,5 @@
 // swift-tools-version:3.1
+
 import PackageDescription
 
 let package = Package(
@@ -9,6 +10,6 @@ let package = Package(
     Target(name: "MySQL"),
   ],
   dependencies: [
-    .Package(url: "https://github.com/nicholasjackson/swift-libmysql", majorVersion: 0, minor: 1)
+    .Package(url: "https://github.com/nicholasjackson/swift-libmysql.git", majorVersion: 0, minor: 1)
   ]
 )

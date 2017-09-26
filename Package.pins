@@ -4,7 +4,7 @@
     {
       "package": "swift-libmysql",
       "reason": null,
-      "repositoryURL": "https://github.com/nicholasjackson/swift-libmysql",
+      "repositoryURL": "https://github.com/nicholasjackson/swift-libmysql.git",
       "version": "0.1.0"
     }
   ],
